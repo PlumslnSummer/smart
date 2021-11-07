@@ -1,0 +1,3 @@
+include ':banner-1.4.10'
+include ':app'
+rootProject.name = "TeacherData"
